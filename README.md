@@ -1,16 +1,1 @@
-# flutter_application_youtubevideo
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="374" alt="Снимок экрана 2024-04-29 в 09 59 11" src="https://github.com/inzhu-ka/flutter_practice/assets/145310551/3228bc75-ca66-427b-8811-e853bc080b51">
